@@ -1,6 +1,11 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+
 h1{
     color: rgb(93, 215, 66);
     text-align: center;
+    font-weight: bold;
 }
 
 .sobre-nosotros{
