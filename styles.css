@@ -11,3 +11,22 @@ h1{
     width: 50%;
     line-height: 1.6;
 }
+
+.boton{
+    padding: 2rem;
+    background-color: rgb(95, 4, 181);
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 10%;
+    color: white;
+    border-radius: 1rem;
+    font-size: 1.3rem;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.boton:hover{
+    background-color: rgb(155, 85, 220);
+    transition: .5s;
+}
