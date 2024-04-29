@@ -1,5 +1,5 @@
 h1{
-    color: red;
+    color: rgb(93, 215, 66);
     text-align: center;
 }
 
@@ -13,8 +13,8 @@ h1{
 }
 
 .boton{
-    padding: 2rem;
-    background-color: rgb(95, 4, 181);
+    padding: 1.5rem;
+    background-color: rgb(69, 2, 132);
     display: flex;
     justify-content: center;
     margin: 0 auto;
